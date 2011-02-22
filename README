@@ -1,0 +1,39 @@
+-----------------------------------------------------------------------
+ABOUT
+-----------------------------------------------------------------------
+BabelGraph is written by Gary Weissman, 2008.
+
+BabelGraph 0.2 is open source software, released under the GPLv3 License (see attached for the license itself)
+
+For more information visit http://www.babelgraph.org/ or contact gary@babelgraph.org
+
+BabelGraph is a graph analysis and visualization program helpful for investigations of graphs and social networks.
+-----------------------------------------------------------------------
+INSTALL
+-----------------------------------------------------------------------
+WINDOWS:
+1. Open the zip file by double-clicking or using WinZip.
+
+2. Double Click on BabelGraph.exe and the program will run
+
+MAC:
+1. Mount the disk image by double clicking on the .dmg file
+
+2. Double click on BabelGraph to launch the program
+
+
+LINUX:
+NB. To build BabelGraph you will need Qt 4.4 installed on your computer.  You can download it from trolltech.com
+
+1. gunzip BabelGraph-x.x.tar.gz
+2. tar -xvf BabelGraph-x.x.tar
+3. cd BabelGraph-x.x
+4. qmake-qt4
+5. make
+6. ./BabelGraph
+
+
+-----------------------------------------------------------------------
+RELEASE NOTES
+-----------------------------------------------------------------------
+++ BabelGraph 0.2 is released!  Report bugs to gary@babelgraph.org

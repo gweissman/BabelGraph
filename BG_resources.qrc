@@ -1,0 +1,9 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+	<file>images/babelgraph_logo_iconsize.png</file>
+	<file>images/edit_add.png</file>
+	<file>images/edit_remove.png</file>
+	<file>images/find.png</file>
+	<file>images/babelgraph_logo.png</file>
+</qresource>
+</RCC>
